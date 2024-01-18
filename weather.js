@@ -83,4 +83,4 @@ searchBox.addEventListener('keyup', function (event) {
   }
 });
 
-// searchBtn.addEventListener('click', () => getWeather(searchBox.value));
+searchBtn.addEventListener('click', () => getWeather(searchBox.value));
